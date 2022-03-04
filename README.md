@@ -1,7 +1,7 @@
 # ChainPath Blog
 
 ## Description
-A blog, in which I show my path in becoming a blockchain engineer.
+A blog, in which I show my path in becoming a professional Blockchain Engineer.
 
 ### Website addresses
 Main URL: https://chainpath.?? [TBA]
