@@ -6,7 +6,7 @@ excerpt: You will find here why I am doing that. Honestly. Directly. With passio
 ---
 
 > Caution! This article is still in progress. To be completely transparent with you I am showing you this article at an early stage.
-> So that you get a fresh knowledge as soon as possible. I will not leave it unfinished, don't worry :) It just a matter of (my free) time!
+> So that you get a fresh knowledge as soon as possible. I will not leave it unfinished, don't worry :) It's just a matter of (my free) time!
 
 Hello stranger, I am glad that you are here!
 
