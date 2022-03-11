@@ -10,6 +10,9 @@ Hello, my name is **Mateusz Palichleb**.
 
 I am an experienced **Backend Software Engineer** living in Poland (Europe).
 
+In this <a target="_blank" href="{{ site.url }}/the-reasons-behind-starting-this-blog/">article</a>
+I have described the reasons behind starting this blog.
+
 ## If you want to find out more about me
 
 Because I don't want to duplicate accurate descriptions of myself from other websites,
