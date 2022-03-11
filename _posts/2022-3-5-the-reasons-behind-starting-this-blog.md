@@ -16,7 +16,7 @@ This publication is just the beginning of that way, the first little step.
 
 ## Why?
 
-First things first I will answer why I am doing that :smirk:
+First things first I will answer why I am doing that :)
 
 #### Previous experience with blogging
 
@@ -33,7 +33,7 @@ So much so that I have lost the will to continue creating these blogs.
 
 Important point is I have learned my lesson. Instead of wasting energy in *"Marketing & SEO"* I will just delegate those
 tasks to another person in the future. My **real goal** is to deliver a valuable content, which will **help you** also in **your
-way** to becoming a **Blockchain Engineer**. I hope, of course :blush: no guarantee, but I will try.
+way** to becoming a **Blockchain Engineer**. I hope, of course ;) no guarantee, but I will try.
 
 That's why I decided to go with almost *"plain-text"* blog built on *GitHub Pages*. 
 No SEO, no marketing, no promotion at least on the beginning.
@@ -70,7 +70,7 @@ For me that **niche** is **Blockchain**. Because it is developing so strongly an
 which means that I will probably still have something new to learn on the subject. And that is exactly what 
 I have been looking for so long, which I also wish for you ;)
 
-That's all for now. Expect new content in the future :wink:
+That's all for now. Expect new content in the future.
 
 ___
 
