@@ -5,8 +5,7 @@ categories: [Announcement]
 excerpt: You will find here why I am doing that. Honestly. Directly. With passion :) 
 ---
 
-> Caution! This article is still in progress. To be completely transparent with you I am showing you this article at an early stage.
-> So that you get a fresh knowledge as soon as possible. I will not leave it unfinished, don't worry :) It's just a matter of (my free) time!
+## What is ChainPath?
 
 Hello stranger, I am glad that you are here!
 
@@ -15,7 +14,11 @@ my own path in becoming a professional Blockchain Engineer.
 
 This publication is just the beginning of that way, the first little step.
 
-First things first I will answer why the hell I am doing that :)
+## Why?
+
+First things first I will answer why I am doing that :)
+
+#### Previous experience with blogging
 
 I had some experience in writing several technical publications in the past, 
 but those blogs were focused on delivering a specific knowledge/advices from perspective
@@ -36,7 +39,9 @@ That's why I decided to go with almost "plain-text" blog built on GitHub Pages.
 No SEO, no marketing, no promotion at least on the beginning.
 Just the knowledge (content I delivered), me and you. Simple.
 
-This is how I like to do it. Through my career I realised I am really satisfied in teaching people things I am passionate about.
+#### Teaching by documenting discoveries
+
+Through my career I realised I am really satisfied in teaching people things I am passionate about.
 Blockchain is one of them - moreover it's the most exciting and interesting area of next specialization for me.
 
 As you can probably guess I am **not** an expert in this area, so this will not be a blog with the best practices, patterns, 
@@ -46,12 +51,14 @@ Instead of that I will bring you something like a "Tech Diary",
 which will describe my thoughts, ideas, obstacles, achievements, interesting (and probably important!) discoveries
 while learning and practicing the Blockchain development.
 
+## Finding your niche
+
 I have started programming when I was a teenager (a long long time ago :), thus I followed my passion and became a professional.
 During almost 12 years of commercial experience I created mainly web applications (starting with small and simple and ending with complex and powerful apps)
 I delivered frontend and backend services, configured various servers, Cloud infrastructure, tools for CI/CD, designed software architecture,
 been a Tech Lead and so on. I also have an opportunity to implement some SmartContracts in Solidity in one of the company I cooperated with. 
 
-And you know what?
+#### And you know what?
 
 As a Senior Software Engineer I started to hit a glass ceiling. Repetition of some topics unfortunately led me to boredom.
 A programmer apart from the job itself often learns new things, the problem starts when less and less issues are new to you.
@@ -65,5 +72,7 @@ I have been looking for so long, which I also wish for you ;)
 
 That's all for now. Expect new content in the future :)
 
-P.S. I am not a hero in English language, if you see any linguistic (or even technical :)) errors here, 
-feel free to contact me (all needed communication channels you will find at the bottom of the page).
+___
+
+*P.S. I am not a hero in English language, if you see any linguistic (or even technical :)) errors here, 
+feel free to contact me (all needed communication channels you will find at the bottom of the page).*
