@@ -10,6 +10,7 @@ Useful only for blog post author (copy-paste snippets during article writing).
 
 #### Post Scriptum
 
-P.S. I am not a hero in English language, if you see any linguistic (or even technical :)) errors here,
-feel free to contact me (all needed communication channels you will find at the bottom of the page).
+___
 
+*P.S. I am not a hero in English language, if you see any linguistic (or even technical :)) errors here,
+feel free to contact me (all needed communication channels you will find at the bottom of the page).*
