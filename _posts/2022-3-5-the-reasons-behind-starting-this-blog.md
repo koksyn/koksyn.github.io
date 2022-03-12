@@ -71,8 +71,3 @@ which means that I will probably still have something new to learn on the subjec
 I have been looking for so long, which I also wish for you ;)
 
 That's all for now. Expect new content in the future.
-
-___
-
-*P.S. I am not a hero in English language, if you see any linguistic (or even technical :)) errors here, 
-feel free to contact me (all needed communication channels you will find at the bottom of the page).*
