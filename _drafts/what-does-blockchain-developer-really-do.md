@@ -72,14 +72,20 @@ We will describe them further in the article as well.
 - Supply chain
 - Using data outside blockchain
 
-## Two main paths for Blockchain Developer
+## Two main paths of specialization for Blockchain Developer
 
-- Building apps on blockchain (usability)
+### 1. Building apps on blockchain (usability, front-side)
 
 > TODO: description. E.g. Help a companies to use blockchain, build apps, tools, startups,
 > process data from, basically everything around it.
 
-- Building blockchain internally (core, fundaments)
+### 2. Building blockchain internally (core, fundaments, back-side)
 
 > TODO: description. E.g. Nodes, libraries, APIs, cryptography, security, testnet's, system design,
 > consensus/quorum algorithms, etc.
+
+### Fullstack Blockchain? (combined both, my own idea)
+
+> TODO: describe. For those, who want to involve in whole spectrum! :)
+> Didn't found the jobs like that, but maybe it will be a good suite of experience for start-up companies
+> or for CTO's / Architects.
