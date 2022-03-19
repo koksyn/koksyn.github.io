@@ -71,3 +71,15 @@ We will describe them further in the article as well.
 - Existence on many blockchains
 - Supply chain
 - Using data outside blockchain
+
+## Two main paths for Blockchain Developer
+
+- Building apps on blockchain (usability)
+
+> TODO: description. E.g. Help a companies to use blockchain, build apps, tools, startups,
+> process data from, basically everything around it.
+
+- Building blockchain internally (core, fundaments)
+
+> TODO: description. E.g. Nodes, libraries, APIs, cryptography, security, testnet's, system design,
+> consensus/quorum algorithms, etc.
