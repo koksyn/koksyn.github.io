@@ -21,6 +21,7 @@ that's why I'm redirecting you to the list of URLs you may check:
 - <a href="https://mateuszpalichleb.com" target="_blank">My Personal Webpage (MateuszPalichleb.com)</a>
 - <a href="https://github.com/koksyn" target="_blank">GitHub profile</a>
 - <a href="https://www.linkedin.com/in/mateusz-palichleb/" target="_blank">LinkedIn profile</a>
+- <a href="https://twetch.com/u/69927" target="_blank">Twetch profile</a>
 - <a href="https://twitter.com/m_palichleb" target="_blank">Twitter profile</a>
 - <a href="https://stackoverflow.com/users/6806473/mateusz-palichleb" target="_blank">StackOverflow profile</a>
 
