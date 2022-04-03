@@ -44,8 +44,8 @@ List of activities you can do on technical side:
 - Write and deploy Smart Contracts.
 - Develop libs or apps, which interacts with Smart Contracts.
 - Read and process data from Blockchain.
-- Create an Oracle.
 - Build a Bridge between Blockchains.
+- Create an Oracle.
 - Develop blockchain nodes / systems from scratch.
 
 ### 1. Write and deploy Smart Contracts.
@@ -80,7 +80,7 @@ As a Blockchain Developer you can write programs, whose will replace the need of
 because the logic behind them will be immutable on the blockchain. In particular, these may be agreements
 between parties, companies, persons, institutions. It opens up a completely new possibilities like peer-to-peer
 financial instruments (so called DeFi), borrows, decentralized chats, authentication mechanisms,
-ownership of non-fungible data (NFT) and so on and so forth.
+ownership of non-fungible tokens (NFT) and so on and so forth.
 
 It's worth mentioning, that the code of Smart Contracts deployed on the Blockchain is (mainly) immutable,
 so you have to shift your approach about maintenance and development of those. If there will be an error inside code,
@@ -93,10 +93,43 @@ The awareness of the consequences of decisions made inside a code (e.g. of choos
 should be definitely one of your skills.
 
 ### 2. Develop libs or apps, which interacts with Smart Contracts.
+
+Smart Contracts with logic/data inside blockchain is one thing, but there should be at least one more layer (like UI) to allow people interact
+with it. People should have some interface to use smart contracts without technical knowledge.
+
+Therefore, you can use several libraries (like Web3j, web3.js and so on) or directly access Nodes APIs (e.g. via REST/gRPC protocols) in your application.
+It doesn't matter, that frontend or backend (or both) is communicating with the Blockchain. Your application may depend on ledger completely or only partially
+(like one element is stored in a decentralized way).
+
 ### 3. Read and process data from Blockchain.
-### 4. Create an Oracle.
-### 5. Build a Bridge between Blockchains.
+
+Sometimes you will develop tools/applications, whose only uses data stored on blockchain (like analytics applications) without using Smart Contracts.
+This activity may not be highly related with our topic, but it happens, that this is also a part of responsibilities of a Blockchain Developer position.
+
+### 4. Build a Bridge between Blockchains.
+
+A cross-chain Bridge is often a combination of 2 Smart Contracts: one per each (different) Blockchain.
+Usually it allows people to transfer founds or other data (like NFTs) between two different ledger networks.
+
+For instance, you have some ETH coins, that you want to move into another blockchain like Polygon. All you need to do is to trigger Smart Contract
+on Ethereum network, give it an information how much Ether's you want to send and the recipient (destination) address on Polygon network.
+
+Then the SC on Ethereum will freeze (hold) your desired amount of Ethers on their contract account and then emit an event (or use the Polygon Nodes API),
+which triggers the second SC on Polygon. Then the Polygon SC will "unfreeze" part of its Ether equivalent founds and send them to destination account on Polygon network.
+This works usually both-ways (if you want to transfer it back into Ethereum network).
+
+However, there are variations of Bridges, whose use more centralised solutions (3rd party intermediary servers), 
+especially when it's not possible to use only Smart Contracts (because of limitations or kind of ledgers). 
+
+Of course, Bridges between Public and Private blockchains also exists (developers write them in "Hyperledger Besu" in Java).
+
+### 5. Create an Oracle.
+
+
+
 ### 6. Develop blockchain nodes / systems from scratch.
+
+
 
 ## Use-cases
 
