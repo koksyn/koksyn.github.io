@@ -15,10 +15,10 @@ It turns out, that they are the various perspectives and types of responsibiliti
 #### Background
 
 Let's assume you are a Software Engineer, which have a strong theoretical and practical background of IT Science, 
-common algorithms, architectures and commercial software development.
+common algorithms, architectures and a commercial software development.
 
 You are also interested in blockchain technology, you had a chance to use various dApps, wallets,
-transactions on many blockchains and so on. Maybe you listened of Smart Contracts (or already tried to write some), 
+transactions on many blockchains and so on. Maybe you have listened of Smart Contracts (or already tried to write some), 
 read the Bitcoin WhitePaper and some books/articles about it. 
 
 You've reached the point, where you are wondering what skills and knowledge area you need
@@ -48,10 +48,29 @@ List of activities you can do on technical side:
 - Build a Bridge between Blockchains.
 - Develop blockchain nodes / systems from scratch.
 
-Each activity can be useful in several use-cases. 
-We will describe them further in the article as well.
-
 ### 1. Write and deploy Smart Contracts.
+
+Firstly, you have to know what a Smart Contract is and how it works theoretically.
+It's a program (set of bytecode instructions), which is stored inside Blockchain in a binary representation.
+
+People can deploy a new code to be stored on ledger or run the existing code. It will be executed only, when someone triggers it.
+Triggering means, that someone attached additional data to the Blockchain transaction, which consist of Smart Contract address 
+and arguments passed to one of its functions.
+
+I will describe it using Ethereum network as an example. Beside the code, Smart Contract may have its own memory as a state
+(if it isn't a stateless 'library' contract type). When the transaction, which triggers some function is taken by Node to build a new block,
+the Node will start an EVM (Ethereum Virtual Machine). Then it will take the current state of Smart Contract, its code and will run it
+on EVM. When the calculations will be done (or 'Gas' limit will be reached), a Node will put this state transition into a block as well.
+
+You can imagine, that every Node in the network will run the same code separately. Because the block consists of application state changes it should also
+produce the same Hash on every Node, which is required for reaching a consensus. 
+
+There are many programming languages (dedicated or general-purpose), whose can be used to write Smart Contracts such as Solidity, Vyper, Rust, etc.
+The most popular and commonly used is the Solidity (used on Ethereum network). Before deploying it on the Blockchain you have to compile code into a bytecode.
+
+Of course there are also not a Turing-complete smart contracts in some blockchains on the market (limited possibilities of programs),
+but I was focused on Turing-complete ones in this article.
+
 ### 2. Develop libs or apps, which interacts with Smart Contracts.
 ### 3. Read and process data from Blockchain.
 ### 4. Create an Oracle.
@@ -59,6 +78,9 @@ We will describe them further in the article as well.
 ### 6. Develop blockchain nodes / systems from scratch.
 
 ## Use-cases
+
+Each activity can be useful in one or several use-cases.
+We will describe them further in the article as well.
 
 - Cryptocurrency Wallet
 - Centralized cryptocurrency exchange
