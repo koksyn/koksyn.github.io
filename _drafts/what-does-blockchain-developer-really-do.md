@@ -128,7 +128,7 @@ Of course, Bridges between Public and Private blockchains also exists (e.g. deve
 An "Oracle" is on-chain API you can query to get data into your Smart Contracts. It connects the blockchain with outer (Web 2.0) world.
 When you have some data outside ledger like weather data, you can access it through Oracle. 
 
-Oracles can be also a bi-directional, so some events occurred in Smart Contracts may trigger outer-applications as well. 
+Oracles can be also a bi-directional, so some events occurred in Smart Contracts may trigger outer-applications (or allow them to consume data) as well. 
 Without them the SC may not have enough information to exploit their full potential, because the SC will have only information from blockchain.
 
 On the other hand an Oracle isn't a primary source of data in SC. It acts rather like an additional query layer, 
