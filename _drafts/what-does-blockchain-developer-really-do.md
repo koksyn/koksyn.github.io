@@ -119,13 +119,20 @@ which triggers the second SC on Polygon. Then the Polygon SC will "unfreeze" par
 This works usually both-ways (if you want to transfer it back into Ethereum network).
 
 However, there are variations of Bridges, whose use more centralised solutions (3rd party intermediary servers), 
-especially when it's not possible to use only Smart Contracts (because of limitations or kind of ledgers). 
+especially when it's not possible to use only Smart Contracts (because of limitations). 
 
-Of course, Bridges between Public and Private blockchains also exists (developers write them in "Hyperledger Besu" in Java).
+Of course, Bridges between Public and Private blockchains also exists (e.g. developers write them in Java using "Hyperledger Besu").
 
 ### 5. Create an Oracle.
 
+An "Oracle" is on-chain API you can query to get data into your Smart Contracts. It connects the blockchain with outer (Web 2.0) world.
+When you have some data outside ledger like weather data, you can access it through Oracle. 
 
+Oracles can be also a bi-directional, so some events occurred in Smart Contracts may trigger outer-applications as well. 
+Without them the SC may not have enough information to exploit their full potential, because the SC will have only information from blockchain.
+
+On the other hand an Oracle isn't a primary source of data in SC. It acts rather like an additional query layer, 
+which allows the SC to verify or authenticate external data source.
 
 ### 6. Develop blockchain nodes / systems from scratch.
 
