@@ -50,6 +50,8 @@ List of activities you can do on technical side:
 
 ### 1. Write and deploy Smart Contracts.
 
+#### Introduction
+
 Firstly, you have to know what a Smart Contract is and how it works theoretically.
 It's a program (set of bytecode instructions), which is stored inside Blockchain in a binary representation.
 
@@ -67,9 +69,28 @@ produce the same Hash on every Node, which is required for reaching a consensus.
 
 There are many programming languages (dedicated or general-purpose), whose can be used to write Smart Contracts such as Solidity, Vyper, Rust, etc.
 The most popular and commonly used is the Solidity (used on Ethereum network). Before deploying it on the Blockchain you have to compile code into a bytecode.
+A contract can also trigger other contracts during runtime.
 
-Of course there are also not a Turing-complete smart contracts in some blockchains on the market (limited possibilities of programs),
-but I was focused on Turing-complete ones in this article.
+Of course there are also limited kinds of smart contracts in some blockchains on the market (which won't allow you to do everything),
+but I was focused on a Turing-complete ones in this article.
+
+#### Activities
+
+As a Blockchain Developer you can write programs, whose will replace the need of 3rd party intermediaries,
+because the logic behind them will be immutable on the blockchain. In particular, these may be agreements
+between parties, companies, persons, institutions. It opens up a completely new possibilities like peer-to-peer
+financial instruments (so called DeFi), borrows, decentralized chats, authentication mechanisms,
+ownership of non-fungible data (NFT) and so on and so forth.
+
+It's worth mentioning, that the code of Smart Contracts deployed on the Blockchain is (mainly) immutable,
+so you have to shift your approach about maintenance and development of those. If there will be an error inside code,
+there will probably not be a possibility to fix it. Before deploying it you have to be perfectly sure, 
+that this logic is well tested and correct. Otherwise, you are allowed only to append new functions to the code
+or deploy a completely new Smart Contract (as a separate thing).
+
+Furthermore, each instruction may cost a different amount of Gas, so the performance is crucial, because it costs money.
+The awareness of the consequences of decisions made inside a code (e.g. of choosing the proper type of variable of a collection)
+should be definitely one of your skills.
 
 ### 2. Develop libs or apps, which interacts with Smart Contracts.
 ### 3. Read and process data from Blockchain.
