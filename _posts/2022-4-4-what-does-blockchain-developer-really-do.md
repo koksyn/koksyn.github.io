@@ -30,7 +30,8 @@ I've started to wonder about that too. That's why I've checked out job listings 
 blockchain companies and read many publications on the subject. In this article I would like to share
 with you my observations and conclusions. 
 
-![Fragment of Blockchain companies list, that I prepared during research for myself.](/images/posts/2/blockchain-companies-list.png)
+![Fragment of Blockchain companies list](/images/posts/2/blockchain-companies-list.png)
+*Fragment of Blockchain companies list, that I prepared during research for myself.*
 
 In my opinion it is worth consciously considering at the outset which path to take
 before completely immersing yourself in the subject. My aim was to get a good idea
