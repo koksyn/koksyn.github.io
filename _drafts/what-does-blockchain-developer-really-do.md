@@ -180,7 +180,7 @@ However, the L2 may be placed "off-chain" (in most cases), what force intermedia
 so these solutions are quite controversial and rather contradict what blockchain was supposed to be.
 
 Some companies are also doing development in this area, so then you probably should explore things like:
-"zero-knowlege", "zk-SNARK", "optimistic rollups" and so on. Because currently my knowledge about it is quite small,
+"zero-knowledge", "zk-SNARK", "optimistic rollup" and so on. Because currently my knowledge about it is quite small,
 I will not describe it in detail, but I left that here to let you be aware, that the "Layer 2" ecosystems exists.
 
 ## Two main paths of specialization for Blockchain Developer
