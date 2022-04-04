@@ -156,6 +156,11 @@ such us internals of SHA-256, GPG, Elliptic Curve Digital Signature (ECDSA), RSA
 - optimization of non-relational databases
 - ...and of course proficiency with low-level programming language paradigms, constructs and idioms
 
+In addition, there are "Layer 2" solutions on the market, whose are trying to scale up the blockchains in a various manners.
+Some companies are also doing development in this area, so then you probably should explore things like:
+"zero-knowlege", "zk-SNARKs", "optimistic rollups" and so on. Because currently my knowledge about it is quite small,
+I will not describe it, but I left that here to let you be aware, that the "Layer 2" ecosystems exists.
+
 ## Use-cases
 
 Each activity can be useful in one or several use-cases.
