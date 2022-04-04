@@ -180,23 +180,44 @@ However, the L2 may be placed "off-chain" (in most cases), what force intermedia
 so these solutions are quite controversial and rather contradict what blockchain was supposed to be.
 
 Some companies are also doing development in this area, so then you probably should explore things like:
-"zero-knowledge", "zk-SNARK", "optimistic rollup" and so on. Because currently my knowledge about it is quite small,
+"zero-knowledge", "zk-SNARK", "zk-STARK", "optimistic rollup" and so on. Because currently my knowledge about it is quite small,
 I will not describe it in detail, but I left that here to let you be aware, that the "Layer 2" ecosystems exists.
 
 ## Two main paths of specialization for Blockchain Developer
 
-### 1. Building apps on blockchain (usability, front-side)
+After wider analysis of the Blockchain job offers, two career/specialization paths have emerged:
+- Blockchain Developer, which build apps on (and around) blockchain using mainly SmartContracts (usability)
+- Blockchain Engineer, which build and expand core blockchain elements, Nodes from scratch (foundations)
 
-> TODO: description. E.g. Help a companies to use blockchain, build apps, tools, startups,
-> process data from, basically everything around it.
+### 1. Building apps on blockchain (usability, shallow layer)
 
-### 2. Building blockchain internally (core, fundaments, back-side)
+This kind of specialization will build applications for companies, whose want to use blockchain, but not build it from scratch.
+Writing Smart-Contracts fits pretty well here. There would be nice, that you will have a deeper knowledge about ledger internals,
+because then you will be more confident about the consequences of using, for example, one data structure instead of another.
 
-> TODO: description. E.g. Nodes, libraries, APIs, cryptography, security, testnet's, system design,
-> consensus/quorum algorithms, etc.
+Your daily responsibilities might also cross the area of building casual Web 2.0. frontend or backend side (or both), which communicates
+with SmartContract and basically everything around it. 
 
-### Fullstack Blockchain? (combined both, my own idea)
+This path may be easier for you to start with blockchain development, because you will not leave the Web 2.0. area completely in your career 
+(which you probably are comfortable with). Another advantage might be a growing number (over time) of companies, whose want to build apps on blockchain
+and will look for Blockchain Developers.
 
-> TODO: describe. For those, who want to involve in whole spectrum! :)
-> Didn't found the jobs like that, but maybe it will be a good suite of experience for start-up companies
-> or for CTO's / Architects.
+### 2. Building blockchain internally (core, foundations, deep layers)
+
+Blockchain Engineer touch more deep and technical aspect od distributed ledger. He will focus on low-level server programming,
+building libraries, tools, platforms, whose will interpret the smart contracts code and allow to run it, expand it, and so on.
+
+Gaining experience in this specialization will be harder to reach, but it will possibly give you much more satisfaction than just 
+writing a Smart Contracts. If you're really interested in cryptography and blockchain internals, the difficult and complex problems
+fascinates you, you want to beat them to create a completely new possibilities, where probably nobody has been before -> this path is for you.
+
+### Fullstack Blockchain? All-in-one?
+
+I saw also variations of those two paths in small amount of job offers, whose have wider spectrum of responsibilities, 
+where someone creates some tools for internal blockchain and write Smart Contracts for applications as well. 
+It would rather depend on the company size I think, in smaller ones (start-ups) there will be wider scope. In the opposite 
+there will be much concise scope for larger companies. Sometimes these categories can overlap.
+
+## Summary
+
+...
