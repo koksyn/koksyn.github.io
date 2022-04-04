@@ -191,6 +191,8 @@ After wider analysis of the Blockchain job offers, two career/specialization pat
 
 ### 1. Building apps on blockchain (usability, shallow layer, business-oriented)
 
+![](/images/posts/2/blockchain-developer-borders.png)
+
 This kind of specialization will build applications for companies, whose want to use blockchain, but not build it from scratch.
 Writing Smart-Contracts fits pretty well here. There would be nice, that you will have a deeper knowledge about ledger internals,
 because then you will be more confident about the consequences of using, for example, one data structure instead of another.
@@ -203,6 +205,8 @@ This path may be easier for you to start with blockchain development, because yo
 and will look for Blockchain Developers.
 
 ### 2. Building blockchain internally (core, foundations, science/tech-oriented)
+
+![](/images/posts/2/blockchain-engineer-borders.png)
 
 Blockchain Engineer touches more deep and technical aspect of distributed ledger. He will focus on low-level server programming,
 building libraries, tools, platforms, whose will interpret the smart contracts code and allow to run it, expand it, and so on.
