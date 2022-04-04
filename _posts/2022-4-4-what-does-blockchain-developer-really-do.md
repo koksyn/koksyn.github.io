@@ -14,7 +14,7 @@ common algorithms, architectures and a commercial software development.
 
 You are also interested in blockchain technology, you had a chance to use various dApps, wallets,
 transactions on many blockchains and so on. Maybe you have listened of **Smart Contracts** (or already tried to write some), 
-read the "_Bitcoin WhitePaper_" and some books/articles about it. 
+read the "Bitcoin Whitepaper" and some books/articles about it. 
 
 You've reached the point, where you are wondering what skills and knowledge area you need
 to become a **Blockchain Developer**. Maybe you would like to make a choice according to your interests?
@@ -134,7 +134,7 @@ This activity may not be highly related with our topic, but it happens, that thi
 
 ### 4. Build a Bridge between Blockchains.
 
-A c**ross-chain Bridge** is often a combination of **two Smart Contracts**: one per each (different) Blockchain.
+A **cross-chain Bridge** is often a combination of **two Smart Contracts**: one per each (different) Blockchain.
 Usually it allows people to transfer founds or other data (like NFTs) **between** two different ledger networks.
 
 For instance, you have some **ETH coins**, that you want to move into another blockchain like **Polygon**. All you need to do is to trigger **Smart Contract**
