@@ -2,7 +2,7 @@
 layout: post
 title: What does the Blockchain Developer really do?
 categories: [Research]
-excerpt: Let's decrypt the mystery behind this title. I have described the activities that a Blockchain Developer can do. These are also grouped into categories and compared to available jobs in the market. It turns out, that they are the various perspectives and types of responsibilities.
+excerpt: Let's decrypt the mystery behind this title. I have described the activities that a Blockchain Developer can do. These are also compared to available jobs in the market. It turns out, that they are two main Blockchain specialisations of programmers.
 ---
 
 > Caution! This article is still in progress. To be completely transparent with you I am showing you this article at an early stage.
@@ -181,7 +181,7 @@ Some companies are also doing development in this area, so then you probably sho
 "zero-knowledge", "zk-SNARK", "zk-STARK", "optimistic rollup" and so on. Because currently my knowledge about it is quite small,
 I will not describe it in detail, but I left that here to let you be aware, that the "Layer 2" ecosystems exists.
 
-## Two main paths of specialization for Blockchain Developer
+## Two main paths of specialization
 
 After wider analysis of the Blockchain job offers, two career/specialization paths have emerged:
 - Blockchain Developer, which build apps on (and around) blockchain using mainly SmartContracts (usability)
