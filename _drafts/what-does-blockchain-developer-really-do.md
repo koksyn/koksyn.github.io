@@ -189,7 +189,7 @@ After wider analysis of the Blockchain job offers, two career/specialization pat
 - Blockchain Developer, which build apps on (and around) blockchain using mainly SmartContracts (usability)
 - Blockchain Engineer, which build and expand core blockchain elements, Nodes from scratch (foundations)
 
-### 1. Building apps on blockchain (usability, shallow layer)
+### 1. Building apps on blockchain (usability, shallow layer, business-oriented)
 
 This kind of specialization will build applications for companies, whose want to use blockchain, but not build it from scratch.
 Writing Smart-Contracts fits pretty well here. There would be nice, that you will have a deeper knowledge about ledger internals,
@@ -202,16 +202,16 @@ This path may be easier for you to start with blockchain development, because yo
 (which you probably are comfortable with). Another advantage might be a growing number (over time) of companies, whose want to build apps on blockchain
 and will look for Blockchain Developers.
 
-### 2. Building blockchain internally (core, foundations, deep layers)
+### 2. Building blockchain internally (core, foundations, science/tech-oriented)
 
-Blockchain Engineer touch more deep and technical aspect od distributed ledger. He will focus on low-level server programming,
+Blockchain Engineer touches more deep and technical aspect of distributed ledger. He will focus on low-level server programming,
 building libraries, tools, platforms, whose will interpret the smart contracts code and allow to run it, expand it, and so on.
 
 Gaining experience in this specialization will be harder to reach, but it will possibly give you much more satisfaction than just 
 writing a Smart Contracts. If you're really interested in cryptography and blockchain internals, the difficult and complex problems
 fascinates you, you want to beat them to create a completely new possibilities, where probably nobody has been before -> this path is for you.
 
-### Fullstack Blockchain? All-in-one?
+### "Fullstack" Blockchain? All-in-one?
 
 I saw also variations of those two paths in small amount of job offers, whose have wider spectrum of responsibilities, 
 where someone creates some tools for internal blockchain and write Smart Contracts for applications as well. 
