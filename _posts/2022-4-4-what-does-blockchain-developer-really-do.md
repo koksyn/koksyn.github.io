@@ -2,7 +2,7 @@
 layout: post
 title: What does the Blockchain Developer really do?
 categories: [Research]
-excerpt: Let's decrypt the mystery behind this title. I have described the activities that a Blockchain Developer can do. These are also compared to available jobs in the market. It turns out, that they are two main Blockchain specialisations of programmers.
+excerpt: Let's decrypt the mystery behind this title. I have described the activities that a Blockchain Developer can do. These are also compared to available jobs in the market. It turns out, that they are two main specialisations of Blockchain programmers.
 ---
 
 > Caution! This article is still in progress. To be completely transparent with you I am showing you this article at an early stage.
