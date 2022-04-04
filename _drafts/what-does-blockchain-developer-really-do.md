@@ -136,7 +136,25 @@ which allows the SC to verify or authenticate external data source.
 
 ### 6. Develop blockchain nodes / systems from scratch.
 
+The most complex area is to develop Blockchain core elements from scratch. You can for instance implement a blockchain Node according 
+to Yellow-Paper (mostly mathematical) specification like Ethereum has, you can reuse many consensus mechanisms, hashing algorithms,
+libraries, mix them up and create something new and so on. 
 
+Despite the Smart Contracts area of development there are also many positions on the market (mostly in companies behind or around public blockchains), whose refers to 
+core Blockchain system design. Most popular (modern) programming languages there are Rust or Golang, because of their efficiency in parallel/concurrent programming
+and high performance in server use-cases. 
+
+The range of required skills may be a quite large there:
+- You should have theoretical and practical knowledge in cryptography (especially in different asymmetric algorithms)
+such us internals of SHA-256, GPG, Elliptic Curve Digital Signature (ECDSA), RSA, AES and so on.
+- knowledge of blockchain interoperability
+- consensus algorithms (Proof-of-Work, Proof-of-Stake, Proof-of-Authority, etc.)
+- system design software patters
+- ability to write highly-performant and reliable distributed systems
+- fundamentals of peer-to-peer networks
+- solid understanding of concepts like HA/failover, ingress, load balancing, ingress, idempotence, eventual consistency
+- optimization of non-relational databases
+- ...and of course proficiency with low-level programming language paradigms, constructs and idioms
 
 ## Use-cases
 
