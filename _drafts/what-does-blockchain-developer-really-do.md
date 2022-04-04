@@ -37,6 +37,25 @@ before completely immersing yourself in the subject. My aim was to get a good id
 of the possible paths forward in this new field. It costs me a bit of effort, 
 so I hope it will be useful to you as well :)
 
+## Use-cases
+
+Each activity described below in the next paragraph can be useful in one or several use-cases.
+The real-world examples are among others:
+
+- Cryptocurrency Wallet (custodial, non-custodial, multi-wallet)
+- Centralized cryptocurrency exchange
+- Decentralized cryptocurrency exchange
+- Authorization through NFT ownership
+- Authorization through Blockchain Wallet
+- NFT Marketplaces
+- API libraries for interaction with Blockchain
+- Data storage
+- Existence on many blockchains, bridges between them (interoperability)
+- Supply chain
+- Using data outside blockchain
+- P2E (Play-to-earn) genre of computer games, which allows you to earn cryptocurrency by playing a game
+- Paying for watching videos, listening in music, educational stuff (even for watched seconds of video, thanks to micro-transactions like BSV blockchain has instead of monthly subscription)
+
 ## Technical activities
 
 List of activities you can do on technical side:
@@ -156,27 +175,13 @@ such us internals of SHA-256, GPG, Elliptic Curve Digital Signature (ECDSA), RSA
 - optimization of non-relational databases
 - ...and of course proficiency with low-level programming language paradigms, constructs and idioms
 
-In addition, there are "Layer 2" solutions on the market, whose are trying to scale up the blockchains in a various manners.
+In addition, there are "Layer 2" solutions on the market, whose are trying to lower transaction costs, scale or speed up the blockchains in a various manners.
+However, the L2 may be placed "off-chain" (in most cases), what force intermediary between people and the blockchain,
+so these solutions are quite controversial and rather contradict what blockchain was supposed to be.
+
 Some companies are also doing development in this area, so then you probably should explore things like:
-"zero-knowlege", "zk-SNARKs", "optimistic rollups" and so on. Because currently my knowledge about it is quite small,
-I will not describe it, but I left that here to let you be aware, that the "Layer 2" ecosystems exists.
-
-## Use-cases
-
-Each activity can be useful in one or several use-cases.
-We will describe them further in the article as well.
-
-- Cryptocurrency Wallet
-- Centralized cryptocurrency exchange
-- Decentralized cryptocurrency exchange
-- Authorization through NFT ownership
-- Authorization through Blockchain Wallet
-- NFT Marketplaces
-- API libraries for interaction with Blockchain
-- Data storage
-- Existence on many blockchains
-- Supply chain
-- Using data outside blockchain
+"zero-knowlege", "zk-SNARK", "optimistic rollups" and so on. Because currently my knowledge about it is quite small,
+I will not describe it in detail, but I left that here to let you be aware, that the "Layer 2" ecosystems exists.
 
 ## Two main paths of specialization for Blockchain Developer
 
