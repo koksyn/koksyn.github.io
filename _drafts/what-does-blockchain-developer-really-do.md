@@ -220,4 +220,11 @@ there will be much concise scope for larger companies. Sometimes these categorie
 
 ## Summary
 
-...
+We came across the most popular list of activities and responsibilities behind them. The Blockchain ecosystem is still quite young,
+but we can see, that it emerges into two areas of development, business-oriented apps and tech-oriented fundamentals.
+Probably soon or later it may become more complex in case of job positions on the market and their borders.
+
+I hope this article has given you an idea of what this particular specialization is like in terms of the labour market.
+
+As for me, I decided to explore both directions, both from the application side and from the Blockchain internals underneath.
+How it will go for me, time will tell. The-two areas interest me a lot (extremely :)), so I don't want to limit myself.
