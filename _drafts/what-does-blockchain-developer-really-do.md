@@ -167,11 +167,11 @@ The range of required skills may be a quite large there:
 - You should have theoretical and practical knowledge in cryptography (especially in different asymmetric algorithms)
 such us internals of SHA-256, GPG, Elliptic Curve Digital Signature (ECDSA), RSA, AES and so on.
 - knowledge of blockchain interoperability
-- consensus algorithms (Proof-of-Work, Proof-of-Stake, Proof-of-Authority, etc.)
-- system design software patters
+- consensus/quorum algorithms (Proof-of-Work, Proof-of-Stake, Proof-of-Authority, etc.)
+- distributed system design patters (CQRS, Saga, Two-Phase Commit, Sharding)
 - ability to write highly-performant and reliable distributed systems
-- fundamentals of peer-to-peer networks
-- solid understanding of concepts like HA/failover, ingress, load balancing, ingress, idempotence, eventual consistency
+- fundamentals of peer-to-peer networks, TCP, UDP, RPC protocols
+- solid understanding of concepts like HA/failover, ingress, load balancing, idempotence, eventual consistency
 - optimization of non-relational databases
 - ...and of course proficiency with low-level programming language paradigms, constructs and idioms
 
